@@ -1,0 +1,1 @@
+LASK_ENV=development
